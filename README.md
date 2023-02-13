@@ -1,4 +1,4 @@
-# Comic-Layaway
+# Comic-Reservation
 This is a Flask-based backend for Reservation Comics. It is contained within a Docker container for ease of deployment.
 
 ## Getting Started
